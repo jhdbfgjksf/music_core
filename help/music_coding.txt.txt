@@ -1,0 +1,13 @@
+MUS file usage:
+opening:
+	this is a format made by myself, and you can't open it by double-clicking it.
+	if you want to open a MUS file, you have to open "music.exe" and enter the file path.
+coding:
+	this is really a friendly and simple format.
+	here's the way to convert the number in the file:
+		-1 end of song
+		0 stop for the time of a note
+	other notes:1-do 2-re 3-mi 4-fa 5-so 6-la 7-si
+	add 0.5 to make the note add half
+	add ten to make the note in a higher octave
+	for example:11-do in second octave

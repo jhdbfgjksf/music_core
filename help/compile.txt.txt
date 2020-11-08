@@ -1,0 +1,3 @@
+This code have some some C++11 code and include windows.h.
+So you must compile in C++11 in windows.
+e.g.:g++.exe "music.cpp" -o "music.exe" -std=c++11
