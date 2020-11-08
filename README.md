@@ -17,3 +17,5 @@
 加0.5使音符加一半
 加十使音符高八度
 例如：11：do在第二个八度音阶
+# 使用方法/usage
+music.exe <filename>.mus
