@@ -1,5 +1,5 @@
 # music_core
-# English ver please see /belp/compile.txt and /help/music_coding.txt
+# English ver please see English.md
 # 编译
 该代码具有一些C ++ 11代码，并包含windows.h。
 因此，您必须在Windows中的C ++ 11中进行编译。
